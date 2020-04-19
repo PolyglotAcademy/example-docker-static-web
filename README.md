@@ -1,2 +1,2 @@
 # example-docker-static-web
-An example repo for collaboration and an introduction to Docker
+An example repo for an introduction to collaboration and Docker
